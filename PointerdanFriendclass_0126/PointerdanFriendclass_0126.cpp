@@ -1,6 +1,6 @@
 using namespace std;
 #include <iostream>
-#include <string>;
+#include <string>
 
 class mahasiswa {
 public:
